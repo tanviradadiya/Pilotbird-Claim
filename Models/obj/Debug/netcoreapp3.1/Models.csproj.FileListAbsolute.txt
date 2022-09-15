@@ -1,0 +1,10 @@
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Models\obj\Debug\netcoreapp3.1\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Models\obj\Debug\netcoreapp3.1\Models.pdb

@@ -1,0 +1,13 @@
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Pilotbird.Claim.EFCore\bin\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.deps.json
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Pilotbird.Claim.EFCore\bin\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.runtimeconfig.json
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Pilotbird.Claim.EFCore\bin\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.runtimeconfig.dev.json
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Pilotbird.Claim.EFCore\bin\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.dll
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Pilotbird.Claim.EFCore\bin\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.pdb
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Pilotbird.Claim.EFCore\obj\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.csproj.AssemblyReference.cache
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Pilotbird.Claim.EFCore\obj\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Pilotbird.Claim.EFCore\obj\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.AssemblyInfoInputs.cache
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Pilotbird.Claim.EFCore\obj\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.AssemblyInfo.cs
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Pilotbird.Claim.EFCore\obj\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.csproj.CoreCompileInputs.cache
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Pilotbird.Claim.EFCore\obj\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.dll
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Pilotbird.Claim.EFCore\obj\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.pdb
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Pilotbird.Claim.EFCore\obj\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.genruntimeconfig.cache

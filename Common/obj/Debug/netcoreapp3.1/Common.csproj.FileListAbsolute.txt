@@ -1,0 +1,13 @@
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Common\bin\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.dll
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Common\bin\Debug\netcoreapp3.1\Pilotbird.Claim.EFCore.pdb
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Common\obj\Debug\netcoreapp3.1\Common.csproj.CopyComplete
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Work\Pilotbird-Claim\Pilotbird.Claim.Service\Common\obj\Debug\netcoreapp3.1\Common.pdb

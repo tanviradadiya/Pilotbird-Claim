@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zVFlN7FObG+VLbM3qYGgXLWlujqRl4B3GrKDKJheSqzA/w/mOPt9KuipiyMh8867IqLZ8zwr6UNl8cmeGQR94w==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Pilotbird-Claim\\Pilotbird.Claim.Service\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MMS991\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\MMS991\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.20.0\\microsoft.identitymodel.abstractions.6.20.0.nupkg.sha512",
+    "C:\\Users\\MMS991\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.20.0\\microsoft.identitymodel.jsonwebtokens.6.20.0.nupkg.sha512",
+    "C:\\Users\\MMS991\\.nuget\\packages\\microsoft.identitymodel.logging\\6.20.0\\microsoft.identitymodel.logging.6.20.0.nupkg.sha512",
+    "C:\\Users\\MMS991\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.20.0\\microsoft.identitymodel.tokens.6.20.0.nupkg.sha512",
+    "C:\\Users\\MMS991\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.20.0\\system.identitymodel.tokens.jwt.6.20.0.nupkg.sha512",
+    "C:\\Users\\MMS991\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

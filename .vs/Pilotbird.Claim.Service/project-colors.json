@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "abd81ece-19b8-4c56-9cbf-97099d8a45c5": {
+      "ProjectGuid": "abd81ece-19b8-4c56-9cbf-97099d8a45c5",
+      "DisplayName": "Pilotbird.Claim.Service",
+      "ColorIndex": 0
+    },
+    "3663aa71-1e79-48fc-b69c-570b0069d431": {
+      "ProjectGuid": "3663aa71-1e79-48fc-b69c-570b0069d431",
+      "DisplayName": "Common",
+      "ColorIndex": 1
+    },
+    "e5deb706-190f-44e4-a8d3-aa630f9163a5": {
+      "ProjectGuid": "e5deb706-190f-44e4-a8d3-aa630f9163a5",
+      "DisplayName": "Pilotbird.Claim.EFCore",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8044fcc6-a73a-418f-9317-e2f5461657b2": {
+      "ProjectGuid": "8044fcc6-a73a-418f-9317-e2f5461657b2",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 3
+    },
+    "6743c5f9-7eeb-40a0-8f1f-e703813cf763": {
+      "ProjectGuid": "6743c5f9-7eeb-40a0-8f1f-e703813cf763",
+      "DisplayName": "Models",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
